@@ -68,7 +68,7 @@ Einführung in inDesign CC2019
 
 ## Themenübersicht
 
-###Grundlagen 1
+### Grundlagen 1
 - Benutzeroberfläche
 - Arbeitsumgebung, Menüs und Werkzeugpaletten
 - Erstellen und Bearbeiten von Objekten
@@ -79,7 +79,8 @@ Einführung in inDesign CC2019
 - Textbearbeitung und Typografie
 
 
-###Grundlagen 2
+### Grundlagen 2
+
 **Unterschiede von inDesign zu Illustrator und Photoshop**
 
 - Formate (Regelsätze)
