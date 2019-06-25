@@ -66,6 +66,68 @@ Einführung in inDesign CC2019
     - Use & Modify ist ein zusammenstellung von Open source Schriften
 
 
+## Themenübersicht
+
+###Grundlagen 1
+- Benutzeroberfläche
+- Arbeitsumgebung, Menüs und Werkzeugpaletten
+- Erstellen und Bearbeiten von Objekten
+- Flächenfüllungen und Konturen
+- Farben und Farbverläufe definieren und anwenden
+- Bilder einfügen und Bildausschnitte erstellen
+- Einfügen von Texten aus verschiedenen Quellen
+- Textbearbeitung und Typografie
+
+
+###Grundlagen 2
+**Unterschiede von inDesign zu Illustrator und Photoshop**
+
+- Formate (Regelsätze)
+    - Zeichen- und Absatzformatierung sowie Textformatvorlagen
+    - Objektformate (Schlagschatten, Transparenz…)
+- Textbearbeitung 2
+    - Grundlinienraster
+    - Textrahmenoptionen
+    - Textverkettung
+    - Suchen & Ersetzen
+- Seiten & Mehrseitige Dokumente
+    - Anlegen eines Seitenlayouts (Musterseiten)
+    - Paginierung (Seitenzahlen)
+    - Anlegen von Inhaltsverzeichnis und Index & Hyperlinks
+    - Mehrseitige Dokumente auf einem Druckbogen (z.B. Wicklefalz Flyer)
+- Druckvorbereitung
+    - Erzeugen von PDF-Dokumenten
+    - Grundlagen des Farbmanagements (Verwendung von Farbprofilen)
+    - Anschnitt und
+- Tipps und Tricks zum Arbeiten mit Adobe InDesign
+Fortgeschrittene Themen ?
+- Große Projekte
+    - Buchdateien
+    - Index / Katalog
+    - Mehrsprachigkeit?
+- Pfade
+    - Objektbearbeitung (Pathfinder, Anordnen, Ausrichten)
+    - Zeichnen und editieren mit den Bézierzeichenwerkzeugen
+    - Text in Pfade umwandeln und editieren
+- Tabellen
+    - Tabellen und Tabellensatz
+    - Importieren und Bearbeiten von Tabellen (Austausch mit Excel)
+- Professionelle Druckvorbereitung
+    - Überfüllen und überdrucken
+    - Arbeiten mit umfangreichen Dokumenten
+    - Inhaltsverzeichnisse und Register
+    - Arbeiten mit Ebenen
+    - Datenimport und Export aus anderen Adobe-Programmen
+    - Erzeugung von EPS-, PDF-, HTML- und Printdateienv
+    - Farbprofilen/Farbkonvertierungen für Print und Web
+    - Ausgabe von Dateien für die Druckerei
+- Automatisierung
+    - Serienbriefe
+    - Scripte
+    - Datenbanken
+    - CSV import
+
+
 
 ### Lizenz
 inDesign Tutorial lizensiert unter der MIT-Lizenz.
