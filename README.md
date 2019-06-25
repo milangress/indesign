@@ -1,8 +1,8 @@
-# inDesign Intro SS18 🔥
-Einführung in inDesign CC2018
+# inDesign Intro
+Einführung in inDesign CC2019
 <img align="right" src="indesign_logo.png">
 
-*Milan Gress, Hochschule Mainz 2018*
+*Milan Gress, Hochschule Mainz 2019*
 
 ### warum inDesign?
 - Layout ein- oder mehrseitiger Dokumente
@@ -70,6 +70,3 @@ Einführung in inDesign CC2018
 inDesign Tutorial lizensiert unter der MIT-Lizenz.
 
 ### Good luck 💖
-
-![](metahaven.png)
-Grafik von [Metahaven](http://metahaven.net/)
