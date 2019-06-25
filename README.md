@@ -134,3 +134,5 @@ Fortgeschrittene Themen ?
 inDesign Tutorial lizensiert unter der MIT-Lizenz.
 
 ### Good luck 💖
+
+-> http://bit.ly/indesign2019
