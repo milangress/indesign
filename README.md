@@ -24,21 +24,21 @@ Einführung in inDesign CC2019
 ## Wichtige shortcuts:
 
 
-- `cmd + E` Exportieren
-- `cmd + 1` 100% Ansicht
+- `⌘ + E` Exportieren
+- `⌘ + 1` 100% Ansicht
 - `W` Vorschau Ansicht
-- `shift + W` Präsentations Ansicht
-- `cmd + alt + ß` Grundlienienraster Ein/Ausblenden
-- `cmd + D` Platzieren
-- `cmd + alt + shift + V` in orginalposition Einfügen
-- `cmd + alt + shift + C` Rahmen proportional füllen
-- `cmd + alt + shift + E` Inhalt proportional an Rahmen anpassen
-- `cmd + B` Textrahmenoptionen
-- `Alt + Nach-links-Taste` Kerning und Laufweite verringern
-- `Alt + Nach-rechts-Taste` Kerning und Laufweite erhöhen
-- `cmd + Ä` Schritt nach vorne
-- `cmd + Ö` Schritt nach hinten
-- `shift + pfeiltaste` um zehfachen wert verschieben
+- `⇧ + W` Präsentations Ansicht
+- `⌘ + ⌥ + ß` Grundlienienraster Ein/Ausblenden
+- `⌘ + D` Platzieren
+- `⌘ + ⌥ + ⇧ + V` in orginalposition Einfügen
+- `⌘ + ⌥ + ⇧ + C` Rahmen proportional füllen
+- `⌘ + ⌥ + ⇧ + E` Inhalt proportional an Rahmen anpassen
+- `⌘ + B` Textrahmenoptionen
+- `Alt + ← (Nach-links-Taste)` Kerning und Laufweite verringern
+- `Alt + → (Nach-rechts-Taste)` Kerning und Laufweite erhöhen
+- `⌘ + Ä` Schritt nach vorne
+- `⌘ + Ö` Schritt nach hinten
+- `⇧ + pfeiltaste` um zehfachen wert verschieben
 
 [Alle inDesign shortcuts](https://helpx.adobe.com/de/indesign/using/default-keyboard-shortcuts.html)
 
