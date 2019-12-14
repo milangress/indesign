@@ -34,8 +34,8 @@ Einführung in inDesign CC2019
 - `⌘ + ⌥ + ⇧ + C` Rahmen proportional füllen
 - `⌘ + ⌥ + ⇧ + E` Inhalt proportional an Rahmen anpassen
 - `⌘ + B` Textrahmenoptionen
-- `Alt + ← (Nach-links-Taste)` Kerning und Laufweite verringern
-- `Alt + → (Nach-rechts-Taste)` Kerning und Laufweite erhöhen
+- `⌥ + ← (Nach-links-Taste)` Kerning und Laufweite verringern
+- `⌥ + → (Nach-rechts-Taste)` Kerning und Laufweite erhöhen
 - `⌘ + Ä` Schritt nach vorne
 - `⌘ + Ö` Schritt nach hinten
 - `⇧ + pfeiltaste` um zehfachen wert verschieben
