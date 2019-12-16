@@ -7,9 +7,9 @@
 im Absatz Bedienfeld Aktivieren: | Im Zeichen Bedienfeld die Sprache einstellen:
 ---|---
 ![](bilder/silbentrennung-1.png) | ![](bilder/silbentrennung-2.png)
-
+```
 Nachdem die Silbentrennung aktiviert ist müssen wir müssen noch individuelle Einstellungen, die sich je nach Layout richten sollten, vorgenommen werden. Unter `Absatz` → Aufklappmenü ![](bilder/mehr-button.png) → Silbentrennung 
-
+```
 ![](bilder/silbetrennung_s1.png)
 Bei engen Spalten macht eine Wortlänge von 5 Buchstaben Sinn. Möchte man keine kurze Vor-/Nachsilbentrennung, so sind mindestens 6 Buchstaben zu wählen.
 ![](bilder/silbetrennung_s2.png)
