@@ -13,6 +13,7 @@ Einführung in inDesign CC2019
 0. [Workspace & colormanagment](0_intro/intro.md)
 1. [Basics & Layout](1_basics/basics.md)
 2. [Typografie](2_typo/typo.md)
+    - Praxis: [Fließtext setzen](2_typo/fliestext.md)
 3. [Seiten](3_seiten/seiten.md)
 4. [PDF & drucken](4_pdf/pdf.md)
 
